@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<meta charset ="utf-8"/>
+<title>mcad project_web design</title>
+</head>
+
+<body>
+<div class="content">
+<h3 class="text-align-center">web design</h3>
+<p class ="text-align-center">Below are examples of my web design 1 class projects.
+See full website pages here</p>
+</div>
+</div>
+
+<h4>Project Example 1</h4>
+<img src="webdesign1.jpg" alt="photo pic">
+
+<h4>Project Example 2</h4>
+<img src="webdesign2.jpg" alt="photo pic">
+
+<h4>Project Example 3</h4>
+<img src="webdesign3.jpg" alt="photo pic">
+
+<div id = "footer">
+	<p> &copy; 2015 <a href = "index.html">Sonya Dunn</a> | <a href="index.html/about">say hello</a></p>	
+</div>	
+
+</body>
+</html>
